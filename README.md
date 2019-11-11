@@ -3,14 +3,14 @@
 ### The Files
 
 - app
->
->- models
->   - user.js - the user model 
->
->- routes.js - all the urls for the application
+
+  - models
+    - user.js - the user model 
+
+  - routes.js - all the urls for the application
 - config
->- database.js - database connection settings
->- passport.js - initialising funtions from passport
+  - database.js - database connection settings
+  - passport.js - initialising funtions from passport
 - package.json - list of dependencies
 - server.js - setup the application
 
@@ -58,4 +58,4 @@
 > `nodemon server.js`
 - Press the following in both the terminal windows to quit the Node server and Mongo.db server
 > `control+c`
-- Go to `localhost:8080`
+- Go to [localhost:8080](http://localhost:8080).
